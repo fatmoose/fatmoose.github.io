@@ -1,5 +1,5 @@
 # Topic Title
-![](url for an image about your topic)
+![cat](cat.jpeg)
 
 A short description / abstract of the topic you choose. For the text here and below, feel free to use **bold** and *italic* fonts, [linked texts](url),  ![images](url), or any other element you think would be helpful for your audience to understand the topic.
 
@@ -18,11 +18,11 @@ One or several paragraphs.
 One or several paragraphs for subsection 3.
 
 ## See also
-- [Resource 1](url)
-- [Resource 2](url)
-- [Resource 3](url)
+- [Resource 1](https://www.google.com/)
+- [Resource 2](https://www.bing.com/)
+- [Resource 3](https://www.yahoo.com/)
 
 ## References
-1. Reference 1
-2. Reference 2
-3. Reference 3
+1. Me
+2. Myself
+3. I
